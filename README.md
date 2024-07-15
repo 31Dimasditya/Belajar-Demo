@@ -1,3 +1,3 @@
 # Belajar-Demo
 
-yakali main mulu 
+ini merpakan website lending page profile sederhana yang berisi HTML dan CSS saja  
